@@ -1,6 +1,6 @@
 # water-loggers
 
-This repository contains water logger data from undrained, drain-blocked and drained regions of blanket bogs in Forsinard Flows, Moor House, and Migneint. It also contains Python code to process and visualise the water logger data.
+This repository contains water logger data from undrained, drain-blocked and drained regions of blanket bogs in Braemore/Langwell, Forsinard Flows, Moor House, and Migneint. It also contains Python code to process and visualise the water logger data.
 
 The ```CSV``` folder contains raw data files from the loggers. 
 
