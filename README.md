@@ -10,7 +10,7 @@ Two Python 3 jupyter notebooks are included. The [processing notebook](https://n
 
 Finally, the ```INFO``` folder contains GPS coordinates and satellite images of where the loggers were placed. It also includes a method for how the loggers were installed. 
 
-This repository will be updated soon to include data from blanket bogs in Langwell. 
+[Changelog](./CHANGELOG.md)
 
 If you use the data for publication please provide a link to this GitHub repository. 
 
